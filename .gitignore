@@ -1,0 +1,15 @@
+_work/
+*.tmp
+*.bak
+*.old
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Generated release archives
+dist/*.zip
+*.mcpack
+
+# Local editor files
+.idea/
+.vscode/

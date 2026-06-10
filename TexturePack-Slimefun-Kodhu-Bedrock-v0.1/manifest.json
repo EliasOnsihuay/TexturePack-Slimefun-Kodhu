@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TexturePack Slimefun Kodhu Bedrock",
+    "description": "Experimental Bedrock package based on TexturePack Slimefun Kodhu v0.1. Java Slimefun models and CIT are not fully supported on Bedrock.",
+    "uuid": "bf1eb543-d2e0-4750-bc60-b5fe6adc4b58",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c8b04a43-c5f0-499d-adb5-bebbe4637b6f",
+      "version": [0, 1, 0]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Elias \"Ki3f\" Onsihuay Carrillo"
+    ],
+    "license": "See LICENSE.md and ATTRIBUTION.md",
+    "url": ""
+  }
+}
