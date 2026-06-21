@@ -14,6 +14,7 @@
 | Release ZIP | `TexturePack-Slimefun-Kodhu-v0.1.1.zip` |
 | Java server hosting | Direct ZIP host recommended, for example MCPacks |
 | Bedrock package | `TexturePack-Slimefun-Kodhu-Bedrock-Preview-v0.1.1.mcpack` |
+| Documentation | `docs/wiki`, `README.md`, `INSTALL.md`, `HOSTING.md`, `TROUBLESHOOTING.md` |
 
 ## Root Folders
 
@@ -40,3 +41,7 @@ Bedrock Edition does not support Java resource pack models, CIT, OptiFine/CIT Re
 - Java server use: host the Java ZIP and configure `server.properties`.
 - GitHub use: publish source, documentation, and release downloads.
 - Bedrock use: provide the `.mcpack` only as an experimental preview, not as full support.
+
+## Required Client Notes
+
+The pack can load as a normal Java resource pack, but the most complete custom item behavior may depend on client-side support such as OptiFine CIT or CIT Resewn, depending on the item and Minecraft version.

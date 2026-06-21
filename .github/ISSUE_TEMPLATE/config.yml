@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Slimefun official project
+    url: https://github.com/Slimefun/Slimefun4
+    about: Use this for Slimefun plugin issues, not texture pack issues.

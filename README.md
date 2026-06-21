@@ -29,6 +29,15 @@ Older Minecraft versions may still show a compatibility warning, but the pack is
 
 See [ADDONS.md](ADDONS.md) for the complete addon list and file counts.
 
+## Documentation
+
+- [Install guide](INSTALL.md)
+- [Server hosting guide](HOSTING.md)
+- [Troubleshooting](TROUBLESHOOTING.md)
+- [Pack info](PACK_INFO.md)
+- [Wiki home](docs/wiki/Home.md)
+- [FAQ](docs/wiki/FAQ.md)
+
 ## Installation
 
 1. Download `TexturePack-Slimefun-Kodhu-v0.1.1.zip`.
@@ -66,3 +75,7 @@ This project is a compilation and organization work. Original assets remain owne
 Current release: `v0.1.1`
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+## Support
+
+For bugs, missing textures, credit corrections, or server setup problems, open a GitHub issue and include your Minecraft client version, server version, Slimefun version, and whether you use OptiFine, CIT Resewn, ViaVersion, Geyser, or ItemsAdder.
