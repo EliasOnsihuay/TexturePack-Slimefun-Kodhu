@@ -3,17 +3,17 @@
 | Field | Value |
 |---|---|
 | Name | TexturePack Slimefun Kodhu |
-| Version | v0.1 |
+| Version | v0.1.1 |
 | Maintainer | Elias "Ki3f" Onsihuay Carrillo |
-| Java Edition target | MC 26.1.2+ |
-| Declared format range | 16 to 500 |
+| Java Edition target | Slimefun Java servers, best-effort clients 1.16+ |
+| Declared format range | 6 to 500 |
 | Slimefun base included | Yes |
 | Addon namespaces | 21 |
 | Assets files | 19,243 |
 | Full pack files | About 20,000 |
-| Release ZIP | `TexturePack-Slimefun-Kodhu-v0.1.zip` |
+| Release ZIP | `TexturePack-Slimefun-Kodhu-v0.1.1.zip` |
 | Java server hosting | Direct ZIP host recommended, for example MCPacks |
-| Bedrock package | `TexturePack-Slimefun-Kodhu-Bedrock-v0.1.mcpack` |
+| Bedrock package | `TexturePack-Slimefun-Kodhu-Bedrock-Preview-v0.1.1.mcpack` |
 
 ## Root Folders
 
@@ -32,11 +32,11 @@ This is the primary supported version of the pack.
 
 ## Bedrock Notes
 
-Bedrock Edition does not support Java resource pack models, CIT, OptiFine/CIT Resewn properties, or Java pack overlays in the same way. A separate Bedrock package can include branding and basic assets, but full Slimefun Java item model behavior is not expected to work in Bedrock.
+Bedrock Edition does not support Java resource pack models, CIT, OptiFine/CIT Resewn properties, or Java pack overlays in the same way. Slimefun itself is a Java server plugin, so a functional Bedrock Slimefun texture pack requires a Bedrock-specific addon or Geyser/custom mapping workflow. The included Bedrock package is only a preview/import package.
 
 ## Distribution Notes
 
 - Personal use: install the Java ZIP locally.
 - Java server use: host the Java ZIP and configure `server.properties`.
 - GitHub use: publish source, documentation, and release downloads.
-- Bedrock use: provide the `.mcpack` as an experimental separate download.
+- Bedrock use: provide the `.mcpack` only as an experimental preview, not as full support.

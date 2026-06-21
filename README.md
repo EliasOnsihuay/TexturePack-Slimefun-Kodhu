@@ -1,15 +1,16 @@
 # TexturePack Slimefun Kodhu
 
-Version: `v0.1`
+Version: `v0.1.1`
 
-TexturePack Slimefun Kodhu is a merged Slimefun resource pack prepared by Elias "Ki3f" Onsihuay Carrillo. It includes Slimefun base textures plus multiple addon namespaces, with compatibility metadata and overlays for newer Minecraft resource pack formats.
+TexturePack Slimefun Kodhu is a merged Slimefun Java Edition resource pack prepared by Elias "Ki3f" Onsihuay Carrillo. It includes Slimefun base textures plus multiple addon namespaces, with compatibility metadata and overlays for newer Minecraft resource pack formats.
 
 ![Pack icon](pack.png)
 
 ## Compatibility
 
-- Main target: MC 26.1.2+
-- Compatibility range declared in `pack.mcmeta`: format `16` to `500`
+- Main target: Java Edition Slimefun servers
+- Best-effort client range: Java 1.16+ through modern clients
+- Compatibility range declared in `pack.mcmeta`: format `6` to `500`
 - Includes overlays for:
   - `ia_overlay_1_21_4_to_5`
   - `ia_overlay_1_21_6_plus`
@@ -17,7 +18,7 @@ TexturePack Slimefun Kodhu is a merged Slimefun resource pack prepared by Elias 
   - `overlay_1_21_11`
   - `overlay_26_1_2`
 
-Older Minecraft versions may show a compatibility warning, but the pack is configured to keep a broad loading range when possible.
+Older Minecraft versions may still show a compatibility warning, but the pack is configured to keep the broadest practical loading range. ViaVersion does not magically convert resource packs; the client version still decides what resource pack features can load.
 
 ## Included Content
 
@@ -30,7 +31,7 @@ See [ADDONS.md](ADDONS.md) for the complete addon list and file counts.
 
 ## Installation
 
-1. Download `TexturePack-Slimefun-Kodhu-v0.1.zip`.
+1. Download `TexturePack-Slimefun-Kodhu-v0.1.1.zip`.
 2. Place the ZIP in your Minecraft `resourcepacks` folder.
 3. Enable it from Options > Resource Packs.
 4. Keep it above other Slimefun packs if you use more than one.
@@ -39,7 +40,7 @@ Do not unzip the release ZIP unless you want to edit the pack.
 
 ## Server Hosting
 
-For Java servers, host `TexturePack-Slimefun-Kodhu-v0.1.zip` on a direct resource-pack host such as MCPacks, then place the generated URL in `server.properties`.
+For Java servers, host `TexturePack-Slimefun-Kodhu-v0.1.1.zip` on a direct resource-pack host such as MCPacks, then place the generated URL in `server.properties`.
 
 See [HOSTING.md](HOSTING.md) for Java server, Bedrock, GitHub, and personal-use notes.
 
@@ -57,11 +58,11 @@ This project is a compilation and organization work. Original assets remain owne
 
 - Some older Minecraft versions may show a resource pack compatibility warning.
 - Java CIT, custom item models, and overlays do not convert directly to Minecraft Bedrock Edition.
-- Bedrock Edition support is provided separately as an experimental compatibility package.
+- Bedrock Edition is not fully supported because Slimefun is a Java server plugin. The included Bedrock package is only an experimental preview/import test.
 - GitHub is good for source/docs/releases, but Java servers should use a direct ZIP URL from a resource-pack host.
 
 ## Release
 
-Current release: `v0.1`
+Current release: `v0.1.1`
 
 See [CHANGELOG.md](CHANGELOG.md).

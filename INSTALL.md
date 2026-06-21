@@ -2,7 +2,7 @@
 
 ## Standard Install
 
-1. Download `TexturePack-Slimefun-Kodhu-v0.1.zip`.
+1. Download `TexturePack-Slimefun-Kodhu-v0.1.1.zip`.
 2. Move the ZIP to your Minecraft `resourcepacks` folder.
 3. Open Minecraft.
 4. Go to Options > Resource Packs.
@@ -14,13 +14,13 @@ Place this pack above other Slimefun resource packs if you use several packs at 
 
 ## Java Server Install
 
-For a server-wide resource pack, upload `TexturePack-Slimefun-Kodhu-v0.1.zip` to a direct resource-pack host such as MCPacks, then add the generated URL to `server.properties`.
+For a server-wide resource pack, upload `TexturePack-Slimefun-Kodhu-v0.1.1.zip` to a direct resource-pack host such as MCPacks, then add the generated URL to `server.properties`.
 
 See `HOSTING.md` for the complete setup.
 
 ## Bedrock Install
 
-Open `TexturePack-Slimefun-Kodhu-Bedrock-v0.1.mcpack` with Minecraft Bedrock Edition. This Bedrock package is experimental and does not include full Java Slimefun model behavior.
+Open `TexturePack-Slimefun-Kodhu-Bedrock-Preview-v0.1.1.mcpack` with Minecraft Bedrock Edition only as an import/branding preview. This is not a full Bedrock Slimefun resource pack.
 
 ## Editing The Pack
 

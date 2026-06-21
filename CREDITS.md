@@ -2,7 +2,7 @@
 
 Texture pack:
 
-- TexturePack Slimefun Kodhu v0.1
+- TexturePack Slimefun Kodhu v0.1.1
 
 Edited, merged, organized, and maintained by:
 

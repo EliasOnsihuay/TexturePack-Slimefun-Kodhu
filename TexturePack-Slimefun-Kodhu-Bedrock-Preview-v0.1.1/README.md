@@ -1,8 +1,8 @@
-# TexturePack Slimefun Kodhu Bedrock
+# TexturePack Slimefun Kodhu Bedrock Preview
 
-Version: `v0.1`
+Version: `v0.1.1`
 
-This is an experimental Minecraft Bedrock Edition package based on TexturePack Slimefun Kodhu.
+This is a Minecraft Bedrock Edition preview/import package based on TexturePack Slimefun Kodhu.
 
 ## Important
 
@@ -25,12 +25,12 @@ Minecraft Bedrock Edition does not support Java resource pack features such as:
 
 ## Install
 
-Open `TexturePack-Slimefun-Kodhu-Bedrock-v0.1.mcpack` with Minecraft Bedrock Edition.
+Open `TexturePack-Slimefun-Kodhu-Bedrock-Preview-v0.1.1.mcpack` with Minecraft Bedrock Edition.
 
 ## Recommended Use
 
 Use the Java Edition ZIP for the real Slimefun experience:
 
-- `TexturePack-Slimefun-Kodhu-v0.1.zip`
+- `TexturePack-Slimefun-Kodhu-v0.1.1.zip`
 
 Use this Bedrock package only as an experimental starter or branding/resource reference.
